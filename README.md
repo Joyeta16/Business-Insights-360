@@ -59,17 +59,19 @@ AtliQ’s fiscal year runs from September to August, and the dataset covers actu
 ## 📑 Report Inclusions  
 This repository includes a PDF version of the Power BI report hosted on the Power BI Service, along with its underlying data model. Below, you’ll find a screenshot of the data model and a PDF of the report for a quick preview.
 
-## 🛠️ Tools Used:
-**Data Visualization:** Power BI
+NOTE:
+
+## 🛠️ Tools Used:  
+**Data Cleaning & Transformation:** Power Query  
+**Data Visualization:** Power BI  
 **Data Analysis:** DAX
-**Data Cleaning & Transformation:** Power Query
 
 ## 💡 Insights
 
 ### Business Growth & Financial Performance:
 
-- Rapid expansion: Gross Sales grew 260% (FY 2019), 150% (FY 2020), ~200% (FY 2021), and ~350% (FY 2022).
-- Net Profit % remains negative due to high operational and marketing expenses, typical for a company in its growth phase.
+- Rapid expansion: Net Sales grew ~280% (FY 2019), ~140% (FY 2020), ~200% (FY 2021), and ~350% (FY 2022).
+- Net Profit % remains negative since 2020 due to high operational and marketing expenses, typical for a company in its growth phase.
 
 ### Revenue & Market Trends:
 
@@ -86,7 +88,7 @@ This repository includes a PDF version of the Power BI report hosted on the Powe
 
 ### Forecast Accuracy & Supply Chain Efficiency:
 
-- Forecast Accuracy (FCA%) dropped from 86% (FY 2019) to 73% (FY 2020) due to COVID-19 disruptions but improved to 80.21% (FY 2021) and 81.17% (FY 2022).
+- Forecast Accuracy (FCA%) dropped from ~86% (FY 2019) to ~73% (FY 2020) due to COVID-19 disruptions but improved to ~80% (FY 2021) and ~81% (FY 2022).
 - Excess inventory was a major issue in FY 2019–FY 2020, while stock shortages became a challenge in FY 2021–FY 2022.
 - Work-from-home demand surged in FY 2020, leading to stockouts for processors, keyboards, and WiFi extenders.
 
@@ -106,7 +108,7 @@ This repository includes a PDF version of the Power BI report hosted on the Powe
 
 - Gradually reduce operational and marketing expenses after capturing significant market share to improve Net Profit %.
 - Shift from flat post-discounting to a performance-based model per product and customer in each market.
-- Expand distribution and targeted marketing in high-growth regions like India and APAC.
+- Expand distribution and targeted marketing in high-growth region like APAC and in APAC India.
 - Reevaluate the pricing or cost structure of the Notebook segment to enhance Net Profit %.
 - Investigate the underperformance of USB flash drives and consider repositioning, discontinuing, or introducing improved models.
 - Improve forecasting, especially for customers, by leveraging real-time data to minimize stock imbalances and enhance supply chain efficiency.
@@ -117,6 +119,6 @@ This repository includes a PDF version of the Power BI report hosted on the Powe
 
 ## 🧠 Skills Gained
 
-- Gained a deeper understanding of business metrics and their impact on a product-based company's performance.
+- Gained a deeper understanding of business metrics and their impact on a company's performance.
 - Designed insightful, user-centric Power BI dashboards.
 - Developed functional knowledge of finance, sales, marketing, and supply chain, and their influence on business outcomes.
