@@ -1,5 +1,5 @@
-# Business Insights 360  
-## Company Overview  
+# ![icons8-360-48 (1)](https://github.com/user-attachments/assets/cd652607-08aa-4a67-8994-83fef1e98b8d) Business Insights 360  
+## 🏬 Company Overview
 
 AtliQ Hardware is a rapidly growing electronics company specializing in hardware products, including PC accessories, printers, and more. Over the years, AtliQ has expanded significantly, establishing a strong global presence in key regions such as APAC, North America, Latin America, and the European Union.
 
@@ -14,15 +14,15 @@ Moreover, AtliQ operates through multiple sales channels:
 
 **Note:** AtliQ’s customers are retailers and distributors, while the consumers are the end users.
 
-## Problem Statement
+## 🔎 Problem Statement
 
 As a rapidly growing company, AtliQ Hardware's reliance on scattered Excel sheets for analytics has led to inefficient decision-making, resulting in significant losses, particularly during its Latin American expansion. Meanwhile, competitors leveraging advanced data analytics have gained an edge, leaving AtliQ struggling to keep up with outdated methods. To improve transparency in data-driven decisions and stay competitive, AtliQ has launched a data analytics project to enhance decision-making and strategic growth.
 
-## Project Objective
+## 🎯 Project Objective
 
 To develop an intuitive dashboard that delivers actionable insights for finance, sales, marketing, and supply chain teams, along with an executive and key performers view. This will enhance transparency, improve data accessibility, and empower stakeholders to make informed, data-driven decisions for strategic growth and efficiency.
 
-## Data Overview
+## 🛢 Data Overview
 
 AtliQ Hardware has provided two SQL databases and three Excel files for analysis.  
 
@@ -44,7 +44,7 @@ AtliQ’s fiscal year runs from September to August, and the dataset covers actu
 
 **NOTE:** Since this is a bootcamp project, the data files cannot be shared.
 
-## Data Cleaning & Transformation
+## 🧹️ Data Cleaning & Transformation
 
 ### Standardized & Trimmed Data:
 - Removed leading and trailing spaces from text fields.
@@ -56,15 +56,15 @@ AtliQ’s fiscal year runs from September to August, and the dataset covers actu
 - Added calculated fields in fact_actual_estimates using data from relevant tables (e.g., deriving pre-invoice deductions using percentage values from the pre_invoice_deductions table).
 - Disabled load for tables that were used to derive calculations in fact_actual_estimates to optimize performance and reduce the Power BI report size.
 
-## Report Inclusions  
+## 📑 Report Inclusions  
 This repository includes a PDF version of the Power BI report hosted on the Power BI Service, along with its underlying data model. Below, you’ll find a screenshot of the data model and a PDF of the report for a quick preview.
 
-## Tools Used:
+## 🛠️ Tools Used:
 **Data Visualization:** Power BI
 **Data Analysis:** DAX
 **Data Cleaning & Transformation:** Power Query
 
-## Insights
+## 💡 Insights
 
 ### Business Growth & Financial Performance:
 
@@ -102,16 +102,21 @@ This repository includes a PDF version of the Power BI report hosted on the Powe
 - Retailers contributed ~72% of revenue in FY 2022.
 - The UK had the highest marketing costs, making it a key area for strategy review, followed by Germany (low revenue, high marketing spend).
 
-## Recommendations
+## 📝 Recommendations
 
-- Optimize costs: Gradually reduce operational and marketing expenses after capturing significant market share to improve Net Profit %.
-- Refine discounting strategy: Shift from flat post-discounting to a performance-based model per product & customer in each market.
-- Strengthen India & APAC: Expand distribution and targeted marketing in high-growth regions.
-Reevaluate pricing or cost structure for the Notebook segment to improve Net Profit %.
-Investigate declining performance of USB flash drives—either reposition, discontinue, or introduce improved models.
-- Enhance forecasting: Use AI-driven models to minimize stock imbalances and improve supply chain efficiency.
-- Boost North America penetration: Develop targeted strategies to improve market share despite high revenue contribution.
-- Strengthen PC segment competitiveness: Focus on differentiation to challenge dominant players like Dale.
-- Reassess marketing ROI: Optimize spending in the UK & Germany to ensure efficient returns.
-- Leverage peak seasonality: Align inventory planning and promotions for the Sep–Dec sales surge.
-## Skills Gained
+- Gradually reduce operational and marketing expenses after capturing significant market share to improve Net Profit %.
+- Shift from flat post-discounting to a performance-based model per product and customer in each market.
+- Expand distribution and targeted marketing in high-growth regions like India and APAC.
+- Reevaluate the pricing or cost structure of the Notebook segment to enhance Net Profit %.
+- Investigate the underperformance of USB flash drives and consider repositioning, discontinuing, or introducing improved models.
+- Improve forecasting, especially for customers, by leveraging real-time data to minimize stock imbalances and enhance supply chain efficiency.
+- Develop targeted strategies to increase market share in North America.
+- Focus on differentiation to strengthen competitiveness in the PC segment and challenge dominant players like Dale.
+- Optimize marketing spending in the UK and Germany to improve return on investment.
+- Align inventory planning and promotions with the September–December sales surge to maximize seasonal demand.
+
+## 🧠 Skills Gained
+
+- Gained a deeper understanding of business metrics and their impact on a product-based company's performance.
+- Designed insightful, user-centric Power BI dashboards.
+- Developed functional knowledge of finance, sales, marketing, and supply chain, and their influence on business outcomes.
