@@ -121,6 +121,11 @@ The Support Panel provides options to resolve issues, submit feedback, request n
 - Optimize marketing spending in the UK and Germany to improve return on investment.
 - Align inventory planning and promotions with the September–December sales surge to maximize seasonal demand.
 
+## 📎 Links
+🌐 [Linkedin Post](https://www.linkedin.com/feed/update/urn:li:activity:7300182118653902849/)  
+📊 [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiY2M2ZjA1NmUtN2ExNS00Y2FiLWJkZmEtYzBmMzg0ODZkNTg1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)  
+🖥️ [Presentation](https://youtu.be/yKXYcR3pLvA)
+
 ## 🧠 Skills Gained
 
 - Gained a deeper understanding of business metrics and their impact on a company's performance.
